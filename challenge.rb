@@ -17,4 +17,4 @@ end
   
   
 name_arr = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-puts batch_badge(name_arr)
+puts assign_rooms(name_arr)

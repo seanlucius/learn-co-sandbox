@@ -15,7 +15,7 @@ def assign_rooms(speakers)
 end 
   
 def printer(arr)
-  
+  badge_array = batch_badge_creator
 end 
   
 name_arr = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]

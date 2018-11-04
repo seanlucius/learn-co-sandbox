@@ -26,3 +26,4 @@ def printer(arr)
   end 
 end 
   
+speakers = ""

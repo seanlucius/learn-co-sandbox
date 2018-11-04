@@ -26,7 +26,3 @@ def printer(arr)
   end 
 end 
   
-  
-name_arr = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-
-printer(name_arr)

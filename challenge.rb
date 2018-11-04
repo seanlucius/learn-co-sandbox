@@ -14,7 +14,7 @@ def assign_rooms(speakers)
   end
 end 
   
-def 
+def printer()
   
 name_arr = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 puts assign_rooms(name_arr)

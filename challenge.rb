@@ -8,6 +8,11 @@ def batch_badge_creator(arr)
   end
 end 
 
-def assign_rooms
+def assign_rooms(speakers)
+  
+end 
+  
+  
+  
 name_arr = ["Bob", "Linda", "Tina"]
 puts batch_badge_creator(name_arr)

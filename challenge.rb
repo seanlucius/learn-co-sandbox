@@ -4,5 +4,9 @@ end
 
 def batch_badge_creator(arr)
   arr.map do |name| 
-    
+    "Hello, my name is #{name}."
+  end
 end 
+
+name_arr = ["Bob", "Linda", "Tina"]
+puts batch_badge_creator(name_arr)

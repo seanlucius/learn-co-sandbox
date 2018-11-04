@@ -1,0 +1,1 @@
+cats = ['Garfield', 'Nala', 'Meowth']

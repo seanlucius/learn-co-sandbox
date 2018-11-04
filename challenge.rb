@@ -10,7 +10,7 @@ end
 
 def assign_rooms(speakers)
   speakers.map do |name| 
-    "Hello"
+    "Hello, #{name}! You'll be assigned room "
 end 
   
   

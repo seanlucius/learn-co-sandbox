@@ -26,4 +26,7 @@ def printer(arr)
   end 
 end 
   
-speakers = ""
+  
+name_arr = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+
+printer(name_arr)

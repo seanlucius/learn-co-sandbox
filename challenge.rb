@@ -8,5 +8,6 @@ def batch_badge_creator(arr)
   end
 end 
 
+def 
 name_arr = ["Bob", "Linda", "Tina"]
 puts batch_badge_creator(name_arr)

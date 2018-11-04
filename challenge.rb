@@ -4,7 +4,7 @@ end
 
 def batch_badge_creator(arr)
   arr.map do |name| 
-    return "Hello, my name is #{name}."
+    "Hello, my name is #{name}."
   end
 end 
 

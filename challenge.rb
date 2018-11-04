@@ -16,5 +16,5 @@ end
   
   
   
-name_arr = 
+name_arr = ["Edsger", "Ada", "Charles", "Alan", ""Grace", Linus, Matz]
 puts batch_badge_creator(name_arr)

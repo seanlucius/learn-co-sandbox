@@ -9,7 +9,8 @@ def batch_badge_creator(arr)
 end 
 
 def assign_rooms(speakers)
-  
+  speakers.map do |name| 
+    "He"
 end 
   
   

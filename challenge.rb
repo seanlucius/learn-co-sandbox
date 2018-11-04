@@ -19,8 +19,10 @@ def printer(arr)
   badge_array = batch_badge_creator(arr)
   room_array = assign_rooms(arr)
   badge_array.each do |badge| 
-    puts ""
+    puts "#{badge}"
+  end 
+  room_array.each do |room|
+    puts "#{room}"
+  end 
 end 
   
-name_arr = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-puts assign_rooms(name_arr)
